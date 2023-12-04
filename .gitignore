@@ -42,3 +42,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/pubspec.lock
+/common_tools/analysis_options.yaml
+/ios/Podfile.lock
+**/analysis_options.yaml
